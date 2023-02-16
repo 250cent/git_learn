@@ -15,4 +15,35 @@ div {
     text-align: center;
     padding-top: 10rem;
     height: 100%;
+
+
+}
+
+form {
+    background-color: #f7d68ec6;
+    width: 45%;
+    padding: 40px;
+    margin: 0 auto;
+    border-radius: 13px;
+}
+
+#name, .red {
+    color: #ba4343;
+    
+}
+
+#pass {
+    color: aquamarine;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: "궁서체";
 }
